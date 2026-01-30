@@ -6,7 +6,7 @@ text
 ---
 
 ### **🔮 Прогнозирование оттока клиентов оператора связи**  
-[Ссылка на проект](#)  
+[Ссылка на проект](https://github.com/shaninI88/Pet-project-ML-DS/blob/main/CV_project.ipynb)  
 *Разработка модели классификации для прогноза оттока клиентов компании «ТелеДом». Анализ персональных данных, тарифов и услуг.*  
 **Теги:** `python` `pandas` `matplotlib` `seaborn` `GridSearchCV` `LogisticRegression` `CatBoost` `LGBM` `градиентный бустинг`
 
